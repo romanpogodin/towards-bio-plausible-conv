@@ -1,3 +1,10 @@
+# Paper
+### Towards Biologically Plausible Convolutional Networks
+
+Roman Pogodin, Yash Mehta, Timothy P. Lillicrap, Peter E. Latham
+
+arXiv: https://arxiv.org/pdf/2106.13031.pdf
+
 # Requirements
 Python 3.7.3, PyTorch 1.8, CUDA 10.1.
 
